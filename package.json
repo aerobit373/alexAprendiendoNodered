@@ -2,7 +2,9 @@
     "name": "proyectoAlex1",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-node-rbe": "0.5.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
