@@ -199,7 +199,7 @@
         "z": "10b18821.e89b58",
         "name": "NOTA",
         "info": "Muestro junto al primer nodo la temperatura de la raspberry1 durante todo el tiempo.\nMuestro en el debug solamente los momentos cuando la raspberry1 ha pasado de 57ºC y despues, cuando vuelve a su temperatura normal.",
-        "x": 490,
+        "x": 470,
         "y": 80,
         "wires": []
     }
